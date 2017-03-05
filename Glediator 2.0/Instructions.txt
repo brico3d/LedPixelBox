@@ -1,0 +1,15 @@
+https://brico3d.blogspot.com
+
+Descarga el sketch WS2812_Glediator.ino en tu arduino
+Instala el complemento Java-Serial-win-x64.zip
+Ejecuta el archivo Glediator_V2.jar
+
+Para conectarte al puerto COM:
+Ve a Options/Output
+Output Mode: Glediator_Protocol
+Mapping Mode: Single_Pixels
+Pixel Order:HS_BL
+Color Order: GRB
+
+Selecciona el COM-Port y Baud-Rate a B_1000000
+Presiona Serial Open y Done
